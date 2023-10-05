@@ -1,0 +1,7 @@
+{
+    "token" : "YOUR DISCORD BOT TOKEN",
+    "color" : "EMBED COLOR",
+    "prefix" : "YOUR DISCORD BOT PREFIX",
+    "support" : "YOUR DISCORD BOT SUPPORT SERVER",
+    "mongo" : "YOUR MONGO URL"
+}

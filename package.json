@@ -1,0 +1,17 @@
+{
+  "name": "v13-handler",
+  "version": "1.0.0",
+  "description": "Discord.js V13 powerful handler",
+  "main": "src/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vanika",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.16.0",
+    "fs": "^0.0.1-security",
+    "mongoose": "^7.5.4",
+    "util": "^0.12.5"
+  }
+}
